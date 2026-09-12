@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../day24_firebase_auth_complete/build"
+		},
+		{
+			"path": "../../day24_firebase_auth_complete/.dart_tool"
+		},
+		{
+			"path": "../../day24_firebase_auth_complete/android"
+		},
+		{
+			"path": "../../day24_firebase_auth_complete/.idea"
+		},
+		{
+			"path": "../../day24_firebase_auth_complete/assets"
+		}
+	]
+}
