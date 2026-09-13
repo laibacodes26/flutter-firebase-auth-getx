@@ -185,7 +185,7 @@ The main goal of this project was to build a complete authentication flow while 
 
 Flutter Developer Intern
 
-## 🙏 Acknowledgements
+# 🎓 Acknowledgements
 
 Thanks to **Big Brains** for providing a structured and hands-on learning path that allowed me to learn Flutter development by building practical features step by step.
 
